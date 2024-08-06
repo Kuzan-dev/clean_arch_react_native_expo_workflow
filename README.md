@@ -4,10 +4,10 @@ This project uses React Native with Expo Go to create a mobile app using clean a
 
 ## Table of Contents
 
-- [Descripción del Proyecto](#descripción-del-proyecto)
-- [Estructura del Proyecto](#estructura-del-proyecto)
-- [Requisitos Previos](#requisitos-previos)
-- [Instalación](#instalación)
+- [Project Description](#Project Description)
+- [Project Structure](#Project Structure)
+- [Prerequisites](#Prerequisites)
+- [Installation](#Installation)
 
 
 ## Project description
