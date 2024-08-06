@@ -55,7 +55,7 @@ Follow these steps to configure the project on your local machine:
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/tu-usuario/tu-repositorio.git
+   git clone https://github.com/Kuzan-dev/clean_arch_react_native_expo_workflow.git
 
 2. **Installs the project dependencies:**
    
