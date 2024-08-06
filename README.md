@@ -1,15 +1,14 @@
-# Proyecto de Arquitectura Limpia con Expo Go y React Native
+# Clean Architecture Project with Expo Go and React Native
 
-Este proyecto utiliza React Native con Expo Go para crear una aplicación móvil utilizando principios de arquitectura limpia. La arquitectura limpia permite crear aplicaciones modulares, escalables y mantenibles al separar las responsabilidades de cada capa de la aplicación.
+This project uses React Native with Expo Go to create a mobile app using clean architecture principles. Clean architecture allows for the creation of modular, scalable and maintainable applications by separating the responsibilities of each layer of the application.
 
-## Tabla de Contenidos
+## Table of Contents
 
 - [Descripción del Proyecto](#descripción-del-proyecto)
 - [Estructura del Proyecto](#estructura-del-proyecto)
 - [Requisitos Previos](#requisitos-previos)
 - [Instalación](#instalación)
-- [Uso](#uso)
-- [Licencia](#licencia)
+
 
 ## Project description
 
