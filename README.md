@@ -4,8 +4,8 @@ This project uses React Native with Expo Go to create a mobile app using clean a
 
 ## Table of Contents
 
-- [Project Description](#Project Description)
-- [Project Structure](#Project Structure)
+- [Project Description](#Project-Description)
+- [Project Structure](#Project-Structure)
 - [Prerequisites](#Prerequisites)
 - [Installation](#Installation)
 
@@ -19,27 +19,27 @@ The app aims to demonstrate how to implement clean architecture in a React Nativ
 ```plaintext
 /Proyecto
 |-- /src
-|   |-- /domain       # Contiene entidades y casos de uso (use cases)
-|   |   |-- entities  # Entidades de negocio
-|   |   |-- usecases  # Casos de uso (lógica de negocio)
+|   |-- /domain       # Contains entities and use cases
+|   |   |-- entities  # Business entities
+|   |   |-- usecases  # Use cases (business logic)
 |   |
-|   |-- /data         # Manejo de datos
-|   |   |-- models    # Modelos de datos
-|   |   |-- sources   # Fuentes de datos (API, almacenamiento local, etc.)
-|   |   |-- repositories # Implementaciones de repositorios
+|   |-- /data         # Data management
+|   |   |-- models    # Data models
+|   |   |-- sources   # Data sources (API, local storage, etc.)
+|   |   |-- repositories # Repository implementations
 |   |
-|   |-- /presentation # Lógica de presentación
-|   |   |-- components # Componentes de UI
-|   |   |-- screens    # Pantallas de la aplicación
-|   |   |-- viewmodels # Lógica de UI
+|   |-- /presentation # Presentation logic
+|   |   |-- components # UI components
+|   |   |-- screens    # Application screens
+|   |   |-- viewmodels # UI Logic
 |   |
-|   |-- /core         # Funcionalidades compartidas y utilidades
-|   |   |-- utils     # Utilidades generales
-|   |   |-- styles    # Estilos globales
+|   |-- /core         # Shared functionalities and utilities
+|   |   |-- utils     # General Utilities
+|   |   |-- styles    # Global styles
 |
-|-- App.js            # Punto de entrada de la aplicación
-|-- package.json      # Configuración de NPM
-|-- README.md         # Este archivo
+|-- App.js            # Application entry point
+|-- package.json      # NPM configuration
+|-- README.md         # This file
 
 ```
 
