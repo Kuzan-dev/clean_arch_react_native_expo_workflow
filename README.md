@@ -65,6 +65,6 @@ Follow these steps to configure the project on your local machine:
 
    ```bash
    expo start
- ## Screenshots
+ ## Screenshot
 
- ![application](./screenshot/app_workflow.png)
+ <img src="./screenshot/app_workflow.png" alt="application" width="300"/>
